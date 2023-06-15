@@ -159,3 +159,13 @@ Documentación de donde obtuvo la tabla de solvers😄: https://scikit-learn.org
 Parámetros de la LogReg que aplican a la multicalse, el algoritmo matemático para optimizar descenso de gradiente
 
 <img src="img/solvers.png" alt="solvers" width="500"/>
+
+
+# F1-Score Considerations
+
+- Important parameter average if multiclass: https://stackoverflow.com/questions/52269187/facing-valueerror-target-is-multiclass-but-average-binary
+
+# Otros recursos
+https://deepnote.com/@mazzaroli/Regresion-Logistica-con-Python-y-scikit-learn-cd6b9628-59c3-4496-8abc-8beb77d9b4ff
+
+- Multicollinearity: https://statisticsbyjim.com/regression/multicollinearity-in-regression-analysis/
